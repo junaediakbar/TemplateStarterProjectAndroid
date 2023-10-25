@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- HORIZONTAL MARGIN    -->
+    <dimen name="horizontalMargin">16dp</dimen>
+    <dimen name="horizontalSmallMargin">8dp</dimen>
+
+    <!--VERTICAL MARGIN    -->
+    <dimen name="verticalBigMargin">24dp</dimen>
+    <dimen name="verticalMargin">16dp</dimen>
+    <dimen name="verticalSmallMargin">12dp</dimen>
+    <dimen name="verticalExtraSmallMargin">6dp</dimen>
+
+    <!-- CORNER RADIUS    -->
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="small_card_corner_radius">6dp</dimen>
+</resources>
